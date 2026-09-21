@@ -58,7 +58,9 @@ Then just open `index.html` in your browser — no build step, no dependencies.
 
 ## 📸 Preview
 
-*(Add a screenshot here — drag an image into GitHub's editor and it'll auto-generate the markdown link)*
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 ---
 

@@ -58,8 +58,8 @@ Then just open `index.html` in your browser — no build step, no dependencies.
 
 ## 📸 Preview
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/fd044c42-d52a-40d5-ad02-d515569fc2b7" />
+<img width="1903" height="907" alt="image" src="https://github.com/user-attachments/assets/e3af3e30-b000-46af-b739-a6eded86c3a1" />
 
 
 ---
